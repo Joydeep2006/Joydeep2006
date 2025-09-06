@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joydeep Saha</h1>
 <h3 align="center">🌱 Learning • 💡 Building • 🚀 Growing</h3>
 
-- 🔭 I’m currently working on **Data Structures & Algorithms**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms(Java)**
 
